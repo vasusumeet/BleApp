@@ -12,7 +12,7 @@ Frontend/android/app/libs
 Frontend/*.jks
 Frontend/*.keystore
 
-
+Frontend/
 
 Frontend/ios/build/
 Frontend/ios/Pods/
