@@ -32,3 +32,6 @@ Frontend/*.moved-aside
 Frontend/*.xccheckout
 Frontend/*.xcscheme
 Frontend/*.xcscmblueprint
+
+
+.idea
