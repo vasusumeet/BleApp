@@ -17,7 +17,7 @@ app.get('/',(request,response)=>{
 app.use('/api',dataRoute);
 
 mongoose
-  .connect(MONGODBUrl, { useNewUrlParser: true, useUnifiedTopology: true })
+  .connect(mongoDBURL, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
     console.log('App is connected to Database');
     app.listen(PORT, () => {
