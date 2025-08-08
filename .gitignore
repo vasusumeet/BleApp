@@ -3,35 +3,10 @@ Backend/node_modules
 
 Backend/config.js
 
-Frontend/android/.gradle/
-Frontend/android/build/
-Frontend/android/app/build/
-Frontend/android/.idea/
-Frontend/android/local.properties
-Frontend/android/app/libs
-Frontend/*.jks
-Frontend/*.keystore
 
 Frontend/
 
-Frontend/ios/build/
-Frontend/ios/Pods/
-Frontend/ios/DerivedData/
-Frontend/ios/*.xcodeproj/*
-Frontend/!ios/*.xcodeproj/project.pbxproj
-Frontend/ios/*.xcworkspace
-Frontend/ios/Podfile.lock
-Frontend/ios/*.hmap
-Frontend/ios/*.ipa
-Frontend/*.mode1v3
-Frontend/*.mode2v3
-Frontend/*.perspectivev3
-Frontend/*.xcuserstate
-Frontend/*.xcuserdatad
-Frontend/*.moved-aside
-Frontend/*.xccheckout
-Frontend/*.xcscheme
-Frontend/*.xcscmblueprint
+
 
 
 .idea
