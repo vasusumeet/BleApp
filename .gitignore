@@ -1,7 +1,7 @@
-Frontend/node_modules
+Frontend/
 Backend/node_modules
 
-Backend/config.js
+Backend/.env
 
 
 
@@ -9,4 +9,4 @@ Backend/config.js
 
 
 
-.idea
+.idea 
