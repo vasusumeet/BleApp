@@ -5,7 +5,7 @@ const dataSchema = new mongoose.Schema({
 Roll: { type: String, required: true },
 Pitch:{type: String, required:true},
 Status: { type: String, required: true },
-Steps: { type: Numbter, required: true },
+Steps: { type: Number, required: true },
 Shakes:{type: Number, required:true},
 Scratches: {type: Number, required:true},
 Jumps: {type: Number, required:true},
